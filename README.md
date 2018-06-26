@@ -11,7 +11,7 @@ Both of these probabilistic schemes have outperformed many techniques in convent
 Additionally, any field that uses statistical modeling can benefit from probabilistic programming: simulation, stock trading, and medicine are a few among these.
 Classical probabilistic techniques are used as a backend to these languages, but quantum computers are fundamentally probabilistic, and will potentially be better suited to solving these kinds of problems in the future.  
 
-This language will be implemented by creating a new language the compiles into currently-used quantum programming languages (Such as the rigetti stack).
+This language will be implemented by compiling into currently-used quantum programming languages (Such as the rigetti stack).
 Additionally, probabilistic program learning can be used similarly to Gate Set Tomography, which has been used to improve existing quantum computers (Such as those produced by Rigetti). 
 By implementing a more abstract probabilistic quantum programming language, the world's next set of quantum computers can potentially be used for deeply interesting tasks in cognitive science and statistical modeling in general.
 
