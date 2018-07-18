@@ -1,5 +1,7 @@
 # Quantum Probabilistic Programming
 
+This proposal has been accepted! See the project [here](https://github.com/LSaldyt/curry).
+
 ## Synopsis and Introduction
 
 Programming quantum computers currently requires specialized knowledge.
