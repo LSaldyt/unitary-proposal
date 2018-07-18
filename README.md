@@ -48,7 +48,7 @@ Currently, these are slightly more technical ideas about how I'll approach the t
  - If there is extra time, test the tangential ideas at the bottom of this document
  - Profit? 
 
-## Unordered Sources
+## Ordered Sources
 
 [1] (https://arxiv.org/abs/1206.3255)  
 [2] (http://web.mit.edu/cocosci/josh.html)  
