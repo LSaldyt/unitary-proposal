@@ -1,5 +1,7 @@
 # Quantum Probabilistic Programming
 
+[![Unitary Fund](https://img.shields.io/badge/Supported%20By-UNITARY%20FUND-brightgreen.svg?style=for-the-badge)](http://unitary.fund)  
+
 This proposal has been accepted! See the project [here](https://github.com/LSaldyt/curry). This proposal is getting to be pretty out-of-date, so check that page to see the latest.
 
 ## Synopsis and Introduction
